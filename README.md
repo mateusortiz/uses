@@ -7,4 +7,4 @@
 
 
 
-[Create your own **Uses**](#)
+[**Create your own Uses**](https://github.com/mateusortiz/uses/blob/master/create-your-uses.md)
