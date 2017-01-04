@@ -8,3 +8,6 @@
 
 
 [**Create your own Uses**](https://github.com/mateusortiz/uses/blob/master/create-your-uses.md)
+
+#### Links
+* **[Credits](https://github.com/mateusortiz/uses/blob/master/credits.md)**
