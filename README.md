@@ -11,3 +11,8 @@
 
 #### Links
 * **[Credits](https://github.com/mateusortiz/uses/blob/master/credits.md)**
+
+## License
+
+[MIT License](http://mateusortiz.mit-license.org) ©️ Mateus Ortiz
+
